@@ -1,4 +1,5 @@
-EDA-for-titanic-dataset
+  EDA-for-titanic-dataset
+
 As part of an AI/ML internship task, I conducted an Exploratory Data Analysis (EDA) on the famous Titanic dataset. The goal was to gain a deeper understanding of the data, uncover patterns, and identify important factors that influenced passenger survival. This foundational analysis helps in preparing the data for future predictive modeling
 
 Getting to Know the Data
